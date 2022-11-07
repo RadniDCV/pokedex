@@ -1,2 +1,2 @@
-# pokedex
-pokedex react js
+# pokedex-project-v2
+ pokedex project version 2
